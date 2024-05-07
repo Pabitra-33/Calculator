@@ -1,6 +1,7 @@
 # Calculator
-Creating a simple calculator using Java AWT and Swing involves creating a graphical user interface (GUI) with number buttons, operator buttons, a text field to display input and 
-result, and clear and equals buttons. The calculator can perform addition, subtraction, multiplication, and division operations.
+
+Creating a simple calculator using Java AWT and Swing, involves creating a graphical user interface (GUI) with number buttons, operator buttons, a text field to display input and result, and clear and equals buttons.
+The calculator can perform addition, subtraction, multiplication, and division operations.
 
 Functionalities:<br>
 Addition: Allows users to add two numbers together.
