@@ -9,4 +9,6 @@ Subtraction: Allows users to subtract one number from another.<br>
 Multiplication: Allows users to multiply two numbers.<br>
 Division: Allows users to divide one number by another.<br>
 Clear: Clears the display and resets the calculator.<br>
-Equals: Computes the result of the operation entered by the user.
+Equals: Computes the result of the operation entered by the user.<br>
+
+This calculator application helps the user calculating complex numerical numbers to a efficient way and helps to use easily.
